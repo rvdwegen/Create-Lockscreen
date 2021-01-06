@@ -24,7 +24,7 @@
     Creates a new lockscreen wallpaper from 3 source files. 
     Functionality includes an update check, path validation, overlaying an image, writing text on the wallpaper and CMTrace compatible logging.
 
-    .CREDITS
+    .NOTES
     Credit to Dmitry Maystrenko (PM Kuban) and Lev Papayan (PM Russia) for the original lockscreen wallpaper concept.
 #>
 
